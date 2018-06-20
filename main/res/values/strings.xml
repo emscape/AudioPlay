@@ -1,0 +1,17 @@
+<resources>
+    <!--App Name string -->
+    <string name="app_name">AudioPlay</string>
+
+    <!--String for Playlists Header -->
+    <string name="playlists">Playlists</string>
+
+    <!--Strings for the playlists-->
+    <string name="Eve">Eve Dallas</string>
+    <string name="Dune">Dune</string>
+    <string name="Other">Other</string>
+
+    <!-- Strings for Now Playing page -->
+    <string name="now_playing">Now Playing: </string>
+    <string name="title">Naked in Death</string>
+    <string name="author">J.D. Robb</string>
+</resources>

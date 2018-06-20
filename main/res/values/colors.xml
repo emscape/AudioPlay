@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorHeaderBackground">#108580</color>
+    <color name="colorNowPlaying">#ec3e3e</color>
+    <color name="colorEveDallas">#1e4298</color>
+    <color name="colorDune">#b8570b</color>
+    <color name="colorOther">#15831d</color>
+    <color name="textColorDarkBackground">#FFFFFF</color>
+</resources>
